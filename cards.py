@@ -10,6 +10,7 @@ suits = ["Clubs", "Diamonds", "Hearts", "Spades"]
 cards = []
 
 deck_of_cards():
+
     for rank in ranks:
         for suit in suits:
             a = rank
